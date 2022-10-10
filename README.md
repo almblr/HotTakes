@@ -44,6 +44,8 @@ Run `npm run start` and go to http://localhost:4200/
 
 ## Screenshots
 
+![alt text](https://imgur.com/oTFohOI)
+
 - [Login page](https://imgur.com/oTFohOI)
 - [Home page](https://imgur.com/Id3lVlC)
 - [Create sauce](https://imgur.com/EJPreIe)
