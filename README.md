@@ -1,12 +1,12 @@
 # P6 - Piiquante
 
 ### Présentation
-Piiquante est un site permettant de partager vos sauces préférées avec d'autres membres. Il s’agit d’un projet dans le cadre de la formation  Développeur Web  d’OpenClassrooms. Pour ce projet, le dossier contenant le front end a été fourni, je n'avais pas eu à le réaliser. L'objectif était de faire l'entièreté du back (middleware, auth, routes, models, etc) de l'application.
+Piiquante est un site permettant de partager vos sauces préférées avec d'autres membres. Il s’agit d’un projet dans le cadre de la formation  Développeur Web  d’OpenClassrooms. Pour ce projet, le dossier contenant le frontend a été fourni, je n'avais pas eu à le réaliser. L'objectif était de faire l'entièreté du back (middleware, auth, routes, models, etc) de l'application.
 
-Techno déployées : NodeJS, ExpressJS, MongoDB, mongoose.
+Techno déployées : MongoDB, Mongoose, Express.js, Node.js
 Fonctionnalités : créer un utilisateur, se connecter, se déconnecter, créer une sauce, modifier une sauce, système de like et de dislike, consulter les autres sauces
 
-Vous devez cloner ce repo pour tester le site.
+Afin de consulter le visuel du site, il est nécessaire de cloner ce repo.
 
 ### Back end
 
@@ -25,10 +25,10 @@ _________________
 ### Introduction
 Piiquante is a website for sharing your favorite sauces with other members. This is a project that's part of the OpenClassrooms Web Developer training. For this project, the folder containing the front end was provided, I didn't have to create it. The objective was to do the application back part (middleware, auth, routes, models, etc.).
 
-Deployed technologies : NodeJS, ExpressJS, MongoDB, mongoose.
+Deployed technologies : MongoDB, Mongoose, Express.js, Node.js
 Features : create a user, connect, disconnect, create a sauce, modify a sauce, like and dislike system, view other sauces
 
-You will need to clone this repo to test the app.
+To test this app, you need to clone this repo.
   
 ### Back end
 
