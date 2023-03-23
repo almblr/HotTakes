@@ -1,7 +1,7 @@
 # Hot Takes
 
 ### Présentation
-Hot Takes est un site permettant de partager vos sauces préférées avec d'autres personnes. L'objectif de ce projet était de se développer l'entièreté du back (middleware, auth, routes, models, etc) de l'application.
+HotTakes est un site permettant de partager vos sauces préférées avec d'autres personnes. L'objectif de ce projet était de se développer l'entièreté du back (middleware, auth, routes, models, etc) de l'application.
 
 Techno déployées : MongoDB, Mongoose, Express.js, Node.js
 Fonctionnalités : créer un utilisateur, se connecter, se déconnecter, créer une sauce, modifier une sauce, système de like et de dislike, consulter les autres sauces
@@ -23,7 +23,7 @@ Exécutez la commande `npm run start` et rendez vous sur l'url http://localhost:
 _________________
 
 ### Introduction
-Hot Takes is a website for sharing your favorite sauces with other people. The objective of this project was to develop the entire back part (middleware, auth, routes, models, etc.) of the application.
+HotTakes is a website for sharing your favorite sauces with other people. The objective of this project was to develop the entire back part (middleware, auth, routes, models, etc.) of the application.
 
 Deployed technologies : MongoDB, Mongoose, Express.js, Node.js
 Features : create a user, connect, disconnect, create a sauce, modify a sauce, like and dislike system, view other sauces
